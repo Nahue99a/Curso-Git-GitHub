@@ -13,3 +13,6 @@ diccionario = {
     "apodo" : "Bufalito",
     "programando" : True,
 }
+
+cadena = "0123456789"
+print (cadena[:])       #Los dos puntos : nos indica donde comienza a reccorer y donde termina

@@ -4,3 +4,5 @@ archivo = open("archivos\\texto.txt", encoding="UTF-8")     #abrir un archivo, e
 lineas_1 = archivo.readline () #Lee el texto por lineas
 
 print (lineas_1)
+
+archivo.close()
