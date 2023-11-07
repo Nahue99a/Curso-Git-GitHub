@@ -11,3 +11,10 @@
  * - Si el formato del .txt no es correcto, se indicará que no se han
  *   podido resolver las operaciones. """
  
+
+with open('ejerciciosMoureDev\\challenge21.txt', 'r') as archivo:       #FORMA DE RECORRER POR LINEAS UN TXT
+    lineas = archivo.readlines()
+    cantidad_lineas = len(lineas)
+    for i in range (0, cantidad_lineas):
+        print (lineas[i])
+   

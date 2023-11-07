@@ -1,0 +1,20 @@
+Los datos son: 
+ 
+Nombre: Nahuel 
+Apellido: Andujar
+------------------
+Nombre: Martin 
+Apellido: Casillo
+------------------
+Nombre: Agustin 
+Apellido: Goroso
+------------------
+Nombre: Tomas 
+Apellido: Caimini
+------------------
+Nombre: Gonzalo 
+Apellido: Yepes
+------------------
+Nombre: Lucas 
+Apellido: Cortes
+------------------
